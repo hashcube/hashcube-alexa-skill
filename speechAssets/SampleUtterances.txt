@@ -1,0 +1,10 @@
+GetFirstEventIntent tell me about {Name}
+GetFirstEventIntent who is {Name}
+GetFirstEventIntent what about {Name}
+GetFirstEventIntent how about {Name}
+GetFirstEventIntent tell me something about {Name}
+
+AMAZON.StopIntent no
+AMAZON.StopIntent nope
+AMAZON.StopIntent no thanks
+AMAZON.StopIntent no thank you
